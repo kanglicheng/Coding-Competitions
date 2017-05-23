@@ -14,3 +14,9 @@ https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competit
 http://mdotsabouri.blogspot.com/2014/10/my-recipe-to-improve-your-programming.html 
 http://codeforces.com/blog/entry/14426 
 http://shivamkhandelwal.in/beginners-guide-to-competitive-programming/ 
+
+
+Contests:
+http://ch24.org/ 
+https://www.deadline24.pl/ 
+hc2.ch 
