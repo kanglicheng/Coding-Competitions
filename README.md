@@ -15,6 +15,7 @@ http://mdotsabouri.blogspot.com/2014/10/my-recipe-to-improve-your-programming.ht
 http://codeforces.com/blog/entry/14426 
 http://shivamkhandelwal.in/beginners-guide-to-competitive-programming/ 
 
+http://yular.github.io/2015/06/08/Algorithm-Contest-Online-Judge-List/ discusses some sites
 
 Contests:
 http://ch24.org/ 
