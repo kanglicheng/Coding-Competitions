@@ -16,6 +16,7 @@ http://codeforces.com/blog/entry/14426
 http://shivamkhandelwal.in/beginners-guide-to-competitive-programming/ 
 
 http://yular.github.io/2015/06/08/Algorithm-Contest-Online-Judge-List/ discusses some sites
+http://haifengjin.com/codeforces/ 
 
 Contests:
 http://ch24.org/ 
